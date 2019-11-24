@@ -119,6 +119,22 @@
       </files>
      </record>
      <record id="1574617367x27suu43gv" name="Кольчужный шлем (основа)" author="" url="" tags="" ctime="20191124204247" dir="15746173673sg15fcs1c" file="text.html"/>
+     <record id="1574618430szq2vya62a" name="Тестирование ткани и притяжения" author="" url="" tags="" ctime="20191124210030" dir="15746184309d6coii065" file="text.html">
+      <files>
+       <file id="15746184554iiau6ssme" fileName="Test_Force_Field.blend" type="file"/>
+       <file id="1574618455dud4xoi7ak" fileName="Test_Force_Field.blend1" type="file"/>
+       <file id="1574618455x4ljtf1p7a" fileName="Test_Force_Field1.blend" type="file"/>
+       <file id="1574618455ab88l2vubh" fileName="Test_Force_Field1.blend1" type="file"/>
+       <file id="15746184558oc28p66wh" fileName="Test_Force_Field2.blend" type="file"/>
+       <file id="1574618455q91ssun90u" fileName="Test_Force_Field3.blend" type="file"/>
+       <file id="1574618455kq6sf7ba12" fileName="Test_Force_Field3.blend1" type="file"/>
+       <file id="15746184557q6zsvoe10" fileName="Test_Force_Field4.blend" type="file"/>
+       <file id="1574618455v89cgh7jrn" fileName="Test_Force_Field5.blend" type="file"/>
+       <file id="1574618455drtzz8nayo" fileName="Test_Force_Field5.blend1" type="file"/>
+       <file id="1574618455s6uzl2aahr" fileName="Test_Force_Field6.blend" type="file"/>
+       <file id="1574618455qsz05vhseo" fileName="Test_Force_Field6.blend1" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
   </node>
