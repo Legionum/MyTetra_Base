@@ -40,10 +40,12 @@
     <record id="1574605592czqnsn0zkm" name="Установка Python последней или предпоследней версии" author="" url="" tags="Linux Python Установка" ctime="20191124172632" dir="1574605592iuxjlrtdd0" file="text.html"/>
     <record id="1574605629i6tdqmiys4" name="Selenium" author="" url="" tags="Linux Python Selenium" ctime="20191124172709" dir="1574605629zx99lpxti2" file="text.html"/>
     <record id="157460575969b7cgezco" name="SublimeText" author="" url="" tags="Linux Python SublimeText" ctime="20191124172919" dir="1574605759x0kqtwjjw0" file="text.html"/>
+    <record id="1574606398jcdzl23uey" name="Работа с Microsoft Office Word" author="" url="" tags="Python Word Microsoft Office" ctime="20191124173958" dir="15746063986c5eu3umnh" file="text.html"/>
    </recordtable>
    <node crypt="" id="1574606255ukotpifd5s" name="Примеры кода">
     <recordtable>
      <record id="1574606286jotqnhqhw9" name="Selenium. Закрыть вкладки" author="" url="" tags="Python Selenium" ctime="20191124173806" dir="157460628612vpwknrd9" file="text.html"/>
+     <record id="157460633392sihfrk7h" name="Парсинг Pyhton" author="" url="" tags="Python Парсинг Bs4 BeatifulSoup" ctime="20191124173853" dir="15746063333jyntt2ry2" file="text.html"/>
     </recordtable>
    </node>
   </node>
