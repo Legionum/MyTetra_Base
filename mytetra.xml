@@ -67,6 +67,10 @@
     <record id="15746066730kgu63laa8" name="Официальные ключи" author="" url="" tags="Windows Ключи" ctime="20191124174433" dir="15746066732bnxr9mhb4" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="1574613263fqh2mi2e44" name="Blender"/>
+  <node crypt="" id="1574613263fqh2mi2e44" name="Blender">
+   <recordtable>
+    <record id="15746138120jnpdm853y" name="Обязательные аддоны к Blender" author="" url="" tags="" ctime="20191124194332" dir="15746138128w91u1z0d7" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
