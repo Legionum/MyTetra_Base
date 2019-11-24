@@ -6,7 +6,7 @@
   <node crypt="" id="1574602973gbs8td8xxw" name="Unreal Engine">
    <node crypt="" id="15746030156z6b2mi2sg" name="Установка">
     <recordtable>
-     <record id="1574604084uae3mu369c" name="Linux" author="" url="" tags="Linux Установка" ctime="20191124170125" dir="1574604084loac9xwh8u" file="text.html">
+     <record id="1574604084uae3mu369c" name="Linux" author="" url="" tags="Linux Установка Unreal" ctime="20191124170125" dir="1574604084loac9xwh8u" file="text.html">
       <files>
        <file id="1574604440pbgahe2v99" fileName="Unreal_значок.png" type="file"/>
       </files>
@@ -20,6 +20,7 @@
     <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20191124171043" dir="15746046433ytqy147kp" file="text.html"/>
     <record id="1574604760u9jtfp9quj" name="Проблемы при установке программ" author="" url="" tags="Linux Установка Программы Зависимости Apt" ctime="20191124171240" dir="1574604760z340t1zctg" file="text.html"/>
     <record id="1574604804laq0he759n" name="Работа с пакетами. Aptitude" author="" url="" tags="Linux Установка Программы Зависимости Aptitude" ctime="20191124171324" dir="1574604804rkkqd0w266" file="text.html"/>
+    <record id="1574604871twsrfq0cd2" name="Живые обои" author="" url="" tags="Linux Установка Программы Зависимости Обои" ctime="20191124171431" dir="1574604871yk43ygluwp" file="text.html"/>
    </recordtable>
   </node>
  </content>
