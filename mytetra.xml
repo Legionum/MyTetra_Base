@@ -15,6 +15,10 @@
    </node>
    <node crypt="" id="1574602985c4r4t0y1xb" name="Интерфейс"/>
   </node>
-  <node crypt="" id="1574604551i3u845k89v" name="Linux"/>
+  <node crypt="" id="1574604551i3u845k89v" name="Linux">
+   <recordtable>
+    <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20191124171043" dir="15746046433ytqy147kp" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
