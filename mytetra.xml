@@ -95,6 +95,11 @@
      <record id="15746172002m0r0z6qy7" name="Физика объектов" author="" url="" tags="" ctime="20191124204000" dir="15746172005v45dpx5kh" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1574617289r8ve5o3ybt" name="Проекты">
+    <recordtable>
+     <record id="15746173026c60u9at5c" name="Кольчуга (поверхность)" author="" url="" tags="" ctime="20191124204142" dir="1574617302gfqc9cgcq7" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
