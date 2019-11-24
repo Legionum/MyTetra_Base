@@ -56,7 +56,16 @@
    </node>
   </node>
   <node crypt="" id="1574606577vfmrg0b8na" name="Цитаты">
-   <node crypt="" id="1574606588hpbiep7dcs" name="Омар Хайам"/>
+   <node crypt="" id="1574606588hpbiep7dcs" name="Омар Хайам">
+    <recordtable>
+     <record id="1574606623evgqxyof5f" name="Я знаю мир" author="" url="" tags="Цитата Омар Хайам Я знаю мир" ctime="20191124174343" dir="1574606623ljswdvjtso" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1574606653nqvfm8ql2i" name="Windows">
+   <recordtable>
+    <record id="15746066730kgu63laa8" name="Официальные ключи" author="" url="" tags="Windows Ключи" ctime="20191124174433" dir="15746066732bnxr9mhb4" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
