@@ -23,6 +23,11 @@
      </record>
     </recordtable>
    </node>
+   <node crypt="" id="15746175933rojr9oadh" name="Проекты">
+    <recordtable>
+     <record id="15746176117v7favzktv" name="Приближение и отдаление камеры" author="" url="" tags="" ctime="20191124204651" dir="1574617611a2tel0nqa1" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1574604551i3u845k89v" name="Linux">
    <node crypt="" id="1574605268s5cwmrrj9o" name="Установка">
