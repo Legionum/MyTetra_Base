@@ -89,6 +89,12 @@
      <record id="1574617029an5ei5ro0c" name="Subdivision Surface" author="" url="" tags="" ctime="20191124203709" dir="1574617029bjxc5yt66d" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1574617171174omy191q" name="Физика">
+    <recordtable>
+     <record id="15746171856x0ikbbf4h" name="Симуляция ткани" author="" url="" tags="" ctime="20191124203945" dir="15746171854ur9yen03o" file="text.html"/>
+     <record id="15746172002m0r0z6qy7" name="Физика объектов" author="" url="" tags="" ctime="20191124204000" dir="15746172005v45dpx5kh" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
