@@ -34,6 +34,7 @@
      <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20191124172243" dir="1574605198w160vqinsf" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1574606478gcunllh8ot" name="Игры"/>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
@@ -44,8 +45,9 @@
    </recordtable>
    <node crypt="" id="1574606255ukotpifd5s" name="Примеры кода">
     <recordtable>
-     <record id="1574606286jotqnhqhw9" name="Selenium. Закрыть вкладки" author="" url="" tags="Python Selenium" ctime="20191124173806" dir="157460628612vpwknrd9" file="text.html"/>
-     <record id="157460633392sihfrk7h" name="Парсинг Pyhton" author="" url="" tags="Python Парсинг Bs4 BeatifulSoup" ctime="20191124173853" dir="15746063333jyntt2ry2" file="text.html"/>
+     <record id="1574606286jotqnhqhw9" name="Selenium. Закрыть вкладки" author="" url="" tags="Python Selenium Код Пример" ctime="20191124173806" dir="157460628612vpwknrd9" file="text.html"/>
+     <record id="157460633392sihfrk7h" name="Парсинг Pyhton" author="" url="" tags="Python Парсинг Bs4 BeatifulSoup Код Пример" ctime="20191124173853" dir="15746063333jyntt2ry2" file="text.html"/>
+     <record id="15746064400vl6hnusmk" name="Selenium. Общий пример (стандарт)" author="" url="" tags="Python Selenium Код Пример" ctime="20191124174040" dir="15746064404qwmqfkv60" file="text.html"/>
     </recordtable>
    </node>
   </node>
