@@ -41,7 +41,10 @@
    </node>
    <node crypt="" id="1574618800kpuretm9vy" name="Общие заметки">
     <recordtable>
-     <record id="1574618789xziiet527t" name="Общие заметки" author="" url="" tags="" ctime="20191124210646" dir="1574618789g0rpiuv2w7" file="text.html"/>
+     <record id="1574618789xziiet527t" name="Комментирование нодов" author="" url="" tags="" ctime="20191124210646" dir="1574618789g0rpiuv2w7" file="text.html"/>
+     <record id="15746188595bgnm6ftkp" name="Правильная последовательность уровней" author="" url="" tags="" ctime="20191124210739" dir="1574618859r03fay7kn2" file="text.html"/>
+     <record id="157461887056amcnmddm" name="Обмен переменными. Доступ к переменным из других объектов (БП)" author="" url="" tags="" ctime="20191124210750" dir="1574618870bxf701egae" file="text.html"/>
+     <record id="15746189015euyus9i6d" name="Зона разрешенных перемещений персонажа" author="" url="" tags="" ctime="20191124210821" dir="1574618901bvu1h6o3ji" file="text.html"/>
     </recordtable>
    </node>
   </node>
