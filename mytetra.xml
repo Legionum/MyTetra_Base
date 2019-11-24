@@ -18,6 +18,8 @@
   <node crypt="" id="1574604551i3u845k89v" name="Linux">
    <recordtable>
     <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20191124171043" dir="15746046433ytqy147kp" file="text.html"/>
+    <record id="1574604760u9jtfp9quj" name="Проблемы при установке программ" author="" url="" tags="Linux Установка Программы Зависимости Apt" ctime="20191124171240" dir="1574604760z340t1zctg" file="text.html"/>
+    <record id="1574604804laq0he759n" name="Работа с пакетами. Aptitude" author="" url="" tags="Linux Установка Программы Зависимости Aptitude" ctime="20191124171324" dir="1574604804rkkqd0w266" file="text.html"/>
    </recordtable>
   </node>
  </content>
