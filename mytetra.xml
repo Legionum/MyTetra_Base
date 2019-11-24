@@ -73,8 +73,12 @@
     <record id="15746138120jnpdm853y" name="Обязательные аддоны к Blender" author="" url="" tags="" ctime="20191124194332" dir="15746138128w91u1z0d7" file="text.html"/>
     <record id="1574614024fnf4j6dqwm" name="Общие примечания" author="" url="" tags="" ctime="20191124194704" dir="15746140247ep7dsdu6q" file="text.html"/>
     <record id="1574616872wigzkekm6n" name="Фоновое изображение" author="" url="" tags="" ctime="20191124203432" dir="1574616872mv8mqa8nr3" file="text.html"/>
-    <record id="1574616905oze3sa75zk" name="Модификаторы" author="" url="" tags="" ctime="20191124203505" dir="1574616905d15t0671st" file="text.html"/>
    </recordtable>
+   <node crypt="" id="157461698965z8ywobpf" name="Модификаторы">
+    <recordtable>
+     <record id="1574616905oze3sa75zk" name="Mirror" author="" url="" tags="" ctime="20191124203636" dir="1574616905d15t0671st" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
