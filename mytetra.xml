@@ -34,7 +34,11 @@
      <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20191124172243" dir="1574605198w160vqinsf" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1574606478gcunllh8ot" name="Игры"/>
+   <node crypt="" id="1574606478gcunllh8ot" name="Игры">
+    <recordtable>
+     <record id="1574606534pp8i5bifu4" name="Paradox Interactive. Папка сохранений и модов" author="" url="" tags="" ctime="20191124174214" dir="1574606534aow0y4c6yi" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
@@ -50,6 +54,9 @@
      <record id="15746064400vl6hnusmk" name="Selenium. Общий пример (стандарт)" author="" url="" tags="Python Selenium Код Пример" ctime="20191124174040" dir="15746064404qwmqfkv60" file="text.html"/>
     </recordtable>
    </node>
+  </node>
+  <node crypt="" id="1574606577vfmrg0b8na" name="Цитаты">
+   <node crypt="" id="1574606588hpbiep7dcs" name="Омар Хайам"/>
   </node>
  </content>
 </root>
