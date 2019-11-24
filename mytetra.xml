@@ -4,7 +4,11 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1574602973gbs8td8xxw" name="Unreal Engine">
-   <node crypt="" id="15746030156z6b2mi2sg" name="Установка"/>
+   <node crypt="" id="15746030156z6b2mi2sg" name="Установка">
+    <recordtable>
+     <record id="1574604084uae3mu369c" name="Linux" author="" url="" tags="Linux Установка" ctime="20191124170125" dir="1574604084loac9xwh8u" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1574602985c4r4t0y1xb" name="Интерфейс"/>
   </node>
  </content>
