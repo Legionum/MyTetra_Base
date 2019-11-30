@@ -46,6 +46,7 @@
      <record id="157461887056amcnmddm" name="Обмен переменными. Доступ к переменным из других объектов (БП)" author="" url="" tags="" ctime="20191124210750" dir="1574618870bxf701egae" file="text.html"/>
      <record id="15746189015euyus9i6d" name="Зона разрешенных перемещений персонажа" author="" url="" tags="" ctime="20191124210821" dir="1574618901bvu1h6o3ji" file="text.html"/>
      <record id="157510030419p5r8pm3m" name="Статичные меши" author="" url="" tags="Статичные меши вершины грани развертка uv сокет коллизия грани полигоны" ctime="20191130105144" dir="1575100304ahrszv1uqx" file="text.html"/>
+     <record id="1575100850c7aapp6zu3" name="uv-развертка" author="" url="" tags="uv-развертка канал материал освещение" ctime="20191130110050" dir="15751008505y1z6sviyb" file="text.html"/>
     </recordtable>
    </node>
   </node>
