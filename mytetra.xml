@@ -160,6 +160,11 @@
      </record>
     </recordtable>
    </node>
+   <node crypt="" id="15751416653kf7yc9pia" name="Скриптинг">
+    <recordtable>
+     <record id="157514171134xdzuyefp" name="Пример_1. Добавление объекта. Blender 2.8.*" author="" url="" tags="Blender Python 2.8 Скриптинг" ctime="20191130222151" dir="1575141711bwr6j5isa1" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
