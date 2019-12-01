@@ -165,7 +165,7 @@
     <recordtable>
      <record id="157514171134xdzuyefp" name="Пример_1. Добавление объекта. Blender 2.8.*" author="" url="" tags="Blender Python 2.8 Скриптинг Создание" ctime="20191130222151" dir="1575141711bwr6j5isa1" file="text.html"/>
      <record id="1575144230yuxpcbibdq" name="Пример_1. Дополненный. Создание сетки" author="" url="" tags="Blender Python 2.8 Скриптинг Сетка Создание" ctime="20191130230350" dir="1575144230g66xsa5myo" file="text.html"/>
-     <record id="1575207579zerd8qzemn" name="Пример_1. Добавление к сетке симуляции ткани." author="" url="" tags="" ctime="20191201163939" dir="1575207579fqjbq04kyf" file="text.html"/>
+     <record id="1575207579zerd8qzemn" name="Пример_1. Добавление к сетке симуляции ткани" author="" url="" tags="Blender Python 2.8 Скриптинг Сетка Создание Симуляция Ткань" ctime="20191201163939" dir="1575207579fqjbq04kyf" file="text.html"/>
     </recordtable>
    </node>
   </node>
