@@ -84,6 +84,7 @@
     <record id="157460575969b7cgezco" name="SublimeText" author="" url="" tags="Linux Python SublimeText" ctime="20191124172919" dir="1574605759x0kqtwjjw0" file="text.html"/>
     <record id="1574606398jcdzl23uey" name="Работа с Microsoft Office Word" author="" url="" tags="Python Word Microsoft Office" ctime="20191124173958" dir="15746063986c5eu3umnh" file="text.html"/>
     <record id="1574612491nawu67q7dc" name="Установка Pyhton в Windows для работы с Word" author="" url="" tags="Python Windows Установка Word" ctime="20191124192131" dir="1574612491ntl9804vxr" file="text.html"/>
+    <record id="15752038461nm0rcp9pi" name="libpng12.so.0: cannot open shared object file: No such file or directory" author="" url="" tags="Ошибка Python" ctime="20191201153726" dir="15752038462sz3x0jxg1" file="text.html"/>
    </recordtable>
    <node crypt="" id="1574606255ukotpifd5s" name="Примеры кода">
     <recordtable>
