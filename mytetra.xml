@@ -126,6 +126,7 @@
      <record id="1574617029an5ei5ro0c" name="Subdivision Surface" author="" url="" tags="" ctime="20191124203709" dir="1574617029bjxc5yt66d" file="text.html"/>
      <record id="1575308744dsfs5mbka5" name="Shrinkwrap (обтягивание)" author="" url="" tags="" ctime="20191202204544" dir="1575308744va01fw3brc" file="text.html"/>
      <record id="1575309667kvi1gtfabm" name="Solidify (придать объекту толщину, например из полусферы получится тарелка)" author="" url="" tags="" ctime="20191202210107" dir="1575309667lmqoi3wm80" file="text.html"/>
+     <record id="1575309841g2eaxdhf31" name="Lattice" author="" url="" tags="" ctime="20191202210401" dir="1575309841jpxypsutso" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1574617171174omy191q" name="Физика">
