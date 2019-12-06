@@ -183,7 +183,11 @@
    <node crypt="" id="15752192466jg0ztccjm" name="Обязательные аддоны к Blender">
     <recordtable>
      <record id="1575219274zr1gsnbi0n" name="Node Wrangler" author="" url="" tags="Текстурирование Cntrl+T" ctime="20191201195434" dir="15752192747tizw8kheb" file="text.html"/>
-     <record id="15752193198tg9dalpnf" name="&#10;Smart UV Project" author="" url="" tags="UV-развертка" ctime="20191201195519" dir="15752193193ttg84vh72" file="text.html"/>
+     <record id="15752193198tg9dalpnf" name="&#10;Smart UV Project" author="" url="" tags="UV-развертка" ctime="20191201195519" dir="15752193193ttg84vh72" file="text.html">
+      <files>
+       <file id="1575655816phkehl6bbk" fileName="CW_Smart_UV_Project_Selected_Objects_v0_1_0-1.zip" type="file"/>
+      </files>
+     </record>
      <record id="1575219366q7u3u3yfa5" name="Blender for Unreal Engine" author="" url="" tags="Unreal Engine" ctime="20191201195606" dir="1575219366rpwwck95z5" file="text.html"/>
     </recordtable>
    </node>
