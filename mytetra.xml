@@ -171,6 +171,12 @@
        <file id="1575573152eyv5q2c05h" fileName="vaza4.blend1" type="file"/>
       </files>
      </record>
+     <record id="1575831347eykgpasazw" name="Тестирование одежды_меньшее количество полигонов" author="" url="" tags="" ctime="20191208215547" dir="157583134717tlbrrj64" file="text.html">
+      <files>
+       <file id="157583137299u2blt2lf" fileName="Cloth5.blend" type="file"/>
+       <file id="15758313726zdqwih48g" fileName="Cloth5.blend1" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
    <node crypt="" id="15751416653kf7yc9pia" name="Скриптинг">
