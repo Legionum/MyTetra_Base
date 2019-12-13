@@ -209,7 +209,11 @@
    </node>
    <node crypt="" id="15762508613pah70cutn" name="Импорт и экспорт">
     <recordtable>
-     <record id="1576251036dj2ug5bnwe" name="Формат Nif" author="" url="" tags="" ctime="20191213183036" dir="1576251036a3txyq4p75" file="text.html"/>
+     <record id="1576251036dj2ug5bnwe" name="Формат Nif" author="" url="" tags="" ctime="20191213183036" dir="1576251036a3txyq4p75" file="text.html">
+      <files>
+       <file id="1576251202cp1colirns" fileName="NifSkope_2_0_2018-02-22-x64.7z" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
   </node>
