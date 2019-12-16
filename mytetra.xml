@@ -196,6 +196,12 @@
        <file id="1576459198iia5909v44" fileName="Cloth_Grid_1_21.blend1" type="file"/>
       </files>
      </record>
+     <record id="1576517460hl74d4j74c" name="Шаблон для создания одежды (персонаж + сетка)" author="" url="" tags="" ctime="20191216203100" dir="1576517460eivwjpr2vo" file="text.html">
+      <files>
+       <file id="1576517546ufs5j68rzj" fileName="Cloth_Grid_1.blend" type="file"/>
+       <file id="1576517546jo5kz3te70" fileName="Cloth_Grid_1.blend1" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
    <node crypt="" id="15751416653kf7yc9pia" name="Скриптинг">
