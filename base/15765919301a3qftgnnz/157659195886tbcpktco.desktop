@@ -1,0 +1,23 @@
+[Desktop Entry]
+
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+
+MimeType=all/all;
+Actions=Create_folders_for_Blender;
+
+#######################расположение нового действия в контекстном меню
+#Размещает дейстивие в начале (будет доступно среди действий, доступных по правому клику
+X-KDE-Priority=TopLevel
+#Создание подменю
+X-KDE-Submenu=Blender_Project
+
+
+
+
+[Desktop Action Create_folders_for_Blender]
+
+Exec=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu mv "%U" /usr/share/applications
+
+Name=Create_folders_for_Blender
+Icon=document-send
