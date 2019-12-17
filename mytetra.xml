@@ -69,7 +69,12 @@
      <record id="15746051233lnu4ic1hx" name="Установка 7-zip" author="" url="" tags="Linux 7-zip Архиватор Распаковка" ctime="20191124172239" dir="1574605123ondofl80sr" file="text.html"/>
      <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20191124172243" dir="1574605198w160vqinsf" file="text.html"/>
      <record id="15746749824rlgmdttjd" name="Обход ограничений Yota при безлимитной раздаче" author="" url="" tags="" ctime="20191125124302" dir="1574674982o6riwls63r" file="text.html"/>
-     <record id="1576591930htv7rrxawg" name="Новое действие в контекстном меню Dolphin (KDE)" author="" url="" tags="KDE Menu Меню Настройка Контекстное Скрипт Blender Организация" ctime="20191217171210" dir="15765919301a3qftgnnz" file="text.html"/>
+     <record id="1576591930htv7rrxawg" name="Новое действие в контекстном меню Dolphin (KDE)" author="" url="" tags="KDE Menu Меню Настройка Контекстное Скрипт Blender Организация" ctime="20191217171210" dir="15765919301a3qftgnnz" file="text.html">
+      <files>
+       <file id="15766238229y25dmujjj" fileName="S1.sh" type="file"/>
+       <file id="1576623822oh715h8tln" fileName="Script.desktop" type="file"/>
+      </files>
+     </record>
      <record id="1576598193f9riznlo9e" name="Qt (полное удаление)" author="" url="" tags="Qt Linux Программирование Удаление Установка" ctime="20191217185633" dir="1576598193rygn908rjn" file="text.html"/>
     </recordtable>
    </node>
