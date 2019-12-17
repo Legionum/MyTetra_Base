@@ -2,8 +2,9 @@
 
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
-
+#для каких файлов применять
 MimeType=all/all;
+#названия действий (должны совпадать далее по тексту)
 Actions=for_Blender;
 
 #######################расположение нового действия в контекстном меню
@@ -12,11 +13,16 @@ X-KDE-Priority=TopLevel
 #Создание подменю
 X-KDE-Submenu=Blender_Project
 
+#описание конкретного действия, название действия должно совпадать
+#другими частями текста
 [Desktop Action for_Blender]
 
 #kdialog --title "Dolphin File Name Copy Tool" --inputbox "Copy the current file name and path" "'%f' "
 
 #Exec=kdialog --inputbox "Create folders for Blender project" "Textures"
+#название действия, отображаемое в меню. Может быть произвольным
 Name=Create_folders_for_Blender
+#иконка для действия, требует дополнительного объяснения
 Icon=document-send
+#вызов скрипта
 Exec=~/.local/share/kservices5/ServiceMenus/S1.sh
