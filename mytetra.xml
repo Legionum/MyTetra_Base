@@ -134,6 +134,20 @@
     <record id="1575116190wyivcxwe1l" name="Сочетания клавиш" author="" url="" tags="" ctime="20191130151630" dir="1575116190lpnx8x5d1g" file="text.html"/>
     <record id="15751373229fx4z6tbbq" name="План. Дорожная карта." author="" url="" tags="" ctime="20191130210842" dir="1575137322iu80u9xzh0" file="text.html"/>
     <record id="1575837761d7lgva3wbg" name="Применение модификаторов к отдельным вершинам (Pin_Group)" author="" url="" tags="Shrinkwrap Модификатор Pin_Group Человек Одежда" ctime="20191208234241" dir="1575837761k1n7ywn2ss" file="text.html"/>
+    <record id="1576709194nvfvjj7x4h" name="Ремень" author="" url="" tags="Blender Ремень Belt" ctime="20191219014634" dir="1576709194k5xaehdn7w" file="text.html">
+     <files>
+      <file id="15767092075qx3grkte7" fileName="Belt_1.blend" type="file"/>
+      <file id="157670920761i1c2k0fo" fileName="Belt_1.blend1" type="file"/>
+      <file id="1576709207hck7v9ktn6" fileName="Belt_2.blend" type="file"/>
+      <file id="15767092072tcfwt7w2l" fileName="Belt_2.blend1" type="file"/>
+      <file id="1576709207483m9v4avk" fileName="Belt_3.blend" type="file"/>
+      <file id="1576709207escyz7ozgb" fileName="Belt_3.blend1" type="file"/>
+      <file id="1576709207ly4yeg7ldp" fileName="Belt_4.blend" type="file"/>
+      <file id="1576709207mxy5zn14xc" fileName="Belt_4.blend1" type="file"/>
+      <file id="15767092074c5gqk3u0z" fileName="Belt_5.blend" type="file"/>
+      <file id="157670920761yqfsnmtg" fileName="Belt_5.blend1" type="file"/>
+     </files>
+    </record>
    </recordtable>
    <node crypt="" id="157461698965z8ywobpf" name="Модификаторы">
     <recordtable>
