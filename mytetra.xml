@@ -281,9 +281,10 @@
     <record id="1576844700viyxzxivx1" name="Золото (украшения)" author="" url="" tags="" ctime="20191220152500" dir="1576844700jq42hkzteb" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="1576869615zvsxxti65r" name="Альтернативная энергетика">
+  <node crypt="" id="1576869615zvsxxti65r" name="Строительство">
    <recordtable>
-    <record id="1576869706aoea92bd3p" name="Опыт реальной эксплуатции (от 2 до 13 лет)" author="" url="" tags="#Вакуумный коллектор Солнечные батареи (панели) Ветряк Ветрогенератор" ctime="20191220222146" dir="1576869706w8t4l6djsi" file="text.html"/>
+    <record id="1576869706aoea92bd3p" name="Опыт реальной эксплуатции (от 2 до 13 лет). Альтернативная энергия" author="" url="" tags="#Вакуумный коллектор Солнечные батареи (панели) Ветряк Ветрогенератор" ctime="20191220222146" dir="1576869706w8t4l6djsi" file="text.html"/>
+    <record id="1576873741tc5fzvmyy6" name="Тепловой насос для отопления. Отличная теория и расчеты." author="" url="" tags="Тепловой насос Отопление Теория Расчеты" ctime="20191220232901" dir="1576873741uw4cz6mfun" file="text.html"/>
    </recordtable>
   </node>
  </content>
