@@ -293,9 +293,10 @@
    </recordtable>
    <node crypt="" id="1577096457qs0unb5pao" name="Андрей Курпатов">
     <recordtable>
-     <record id="1577096488tra7kmyzp8" name="Борьба за спокойствие (4 этапа)" author="" url="" tags="" ctime="20191223132128" dir="1577096488yptezgq5m0" file="text.html"/>
-     <record id="1577097816bbjk3bjugb" name="Здоровый эгоизм" author="" url="" tags="" ctime="20191223134336" dir="1577097816iisauu7wga" file="text.html"/>
-     <record id="1577098046yxgq6sy8b7" name="Цифровая гигиена" author="" url="" tags="" ctime="20191223134726" dir="15770980465icpctsw76" file="text.html"/>
+     <record id="1577096488tra7kmyzp8" name="Борьба за спокойствие (4 этапа)" author="" url="" tags="Курпатов Психология Спокойствие Тревожность" ctime="20191223132128" dir="1577096488yptezgq5m0" file="text.html"/>
+     <record id="1577097816bbjk3bjugb" name="Здоровый эгоизм" author="" url="" tags="Курпатов Психология Эгоизм" ctime="20191223134336" dir="1577097816iisauu7wga" file="text.html"/>
+     <record id="1577098046yxgq6sy8b7" name="Цифровая гигиена" author="" url="" tags="Курпатов Психология Цифровая зависимость гигиена" ctime="20191223134726" dir="15770980465icpctsw76" file="text.html"/>
+     <record id="15770981846kl0c613a3" name="Тревога, разражени, тоска. Как справиться?" author="" url="" tags="" ctime="20191223134944" dir="15770981845vjt8w9fhu" file="text.html"/>
     </recordtable>
    </node>
   </node>
