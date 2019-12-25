@@ -280,8 +280,9 @@
   </node>
   <node crypt="" id="1576844663dr3afxcecm" name="Магазины (торговые точки)">
    <recordtable>
-    <record id="1576844700viyxzxivx1" name="Золото (украшения)" author="" url="" tags="" ctime="20191220152500" dir="1576844700jq42hkzteb" file="text.html"/>
-    <record id="1577221362n1wfbxwwn2" name="Сетевая фирма Tapperware (высокотехнологичная посуда)" author="" url="" tags="" ctime="20191225000242" dir="1577221362ot9p5rg08o" file="text.html"/>
+    <record id="1576844700viyxzxivx1" name="Золото (украшения)" author="" url="" tags="Магазин Торговая Точка Golden Золото" ctime="20191220152500" dir="1576844700jq42hkzteb" file="text.html"/>
+    <record id="1577221362n1wfbxwwn2" name="Сетевая фирма Tapperware (высокотехнологичная посуда)" author="" url="" tags="Фирма Название Tapperware Посуда Высокая технология" ctime="20191225000242" dir="1577221362ot9p5rg08o" file="text.html"/>
+    <record id="157728342961pb9dtb8o" name="Кроссовки" author="" url="" tags="Кроссовки Обувь Бег Asics Компания Фирма Название Высокая технология" ctime="20191225171709" dir="1577283429ke5n79el7i" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1576869615zvsxxti65r" name="Строительство">
