@@ -45,9 +45,6 @@
      <record id="15746188595bgnm6ftkp" name="Правильная последовательность уровней" author="" url="" tags="" ctime="20191124210739" dir="1574618859r03fay7kn2" file="text.html"/>
      <record id="157461887056amcnmddm" name="Обмен переменными. Доступ к переменным из других объектов (БП)" author="" url="" tags="" ctime="20191124210750" dir="1574618870bxf701egae" file="text.html"/>
      <record id="15746189015euyus9i6d" name="Зона разрешенных перемещений персонажа" author="" url="" tags="" ctime="20191124210821" dir="1574618901bvu1h6o3ji" file="text.html"/>
-     <record id="157510030419p5r8pm3m" name="Статичные меши" author="" url="" tags="Статичные меши вершины грани развертка uv сокет коллизия грани полигоны" ctime="20191130105144" dir="1575100304ahrszv1uqx" file="text.html"/>
-     <record id="1575100850c7aapp6zu3" name="uv-развертка" author="" url="" tags="uv-развертка канал материал освещение" ctime="20191130110050" dir="15751008505y1z6sviyb" file="text.html"/>
-     <record id="1575131445ze8krexscw" name="Освещение" author="" url="" tags="" ctime="20191130193045" dir="1575131445swjdlemo91" file="text.html"/>
     </recordtable>
    </node>
   </node>
@@ -69,30 +66,21 @@
      <record id="15746051233lnu4ic1hx" name="Установка 7-zip" author="" url="" tags="Linux 7-zip Архиватор Распаковка" ctime="20191124172239" dir="1574605123ondofl80sr" file="text.html"/>
      <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20191124172243" dir="1574605198w160vqinsf" file="text.html"/>
      <record id="15746749824rlgmdttjd" name="Обход ограничений Yota при безлимитной раздаче" author="" url="" tags="" ctime="20191125124302" dir="1574674982o6riwls63r" file="text.html"/>
-     <record id="1576591930htv7rrxawg" name="Новое действие в контекстном меню Dolphin (KDE)" author="" url="" tags="KDE Menu Меню Настройка Контекстное Скрипт Blender Организация" ctime="20191217171210" dir="15765919301a3qftgnnz" file="text.html">
-      <files>
-       <file id="15766238229y25dmujjj" fileName="S1.sh" type="file"/>
-       <file id="1576623822oh715h8tln" fileName="Script.desktop" type="file"/>
-      </files>
-     </record>
-     <record id="1576598193f9riznlo9e" name="Qt (полное удаление)" author="" url="" tags="Qt Linux Программирование Удаление Установка" ctime="20191217185633" dir="1576598193rygn908rjn" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1574606478gcunllh8ot" name="Игры">
     <recordtable>
      <record id="1574606534pp8i5bifu4" name="Paradox Interactive. Папка сохранений и модов" author="" url="" tags="" ctime="20191124174214" dir="1574606534aow0y4c6yi" file="text.html"/>
-     <record id="1576253090gf361n1tnx" name="Thief Gold (Steam)" author="" url="" tags="Steam Linux Thief Gold Mods Files" ctime="20191213190450" dir="1576253090nn1yygj8zp" file="text.html"/>
     </recordtable>
    </node>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
-    <record id="1574605592czqnsn0zkm" name="Установка Python последней или предпоследней версии" author="" url="" tags="Linux Python Установка Blender" ctime="20191124172632" dir="1574605592iuxjlrtdd0" file="text.html"/>
+    <record id="1574605592czqnsn0zkm" name="Установка Python последней или предпоследней версии" author="" url="" tags="Linux Python Установка" ctime="20191124172632" dir="1574605592iuxjlrtdd0" file="text.html"/>
     <record id="1574605629i6tdqmiys4" name="Selenium" author="" url="" tags="Linux Python Selenium" ctime="20191124172709" dir="1574605629zx99lpxti2" file="text.html"/>
     <record id="157460575969b7cgezco" name="SublimeText" author="" url="" tags="Linux Python SublimeText" ctime="20191124172919" dir="1574605759x0kqtwjjw0" file="text.html"/>
     <record id="1574606398jcdzl23uey" name="Работа с Microsoft Office Word" author="" url="" tags="Python Word Microsoft Office" ctime="20191124173958" dir="15746063986c5eu3umnh" file="text.html"/>
     <record id="1574612491nawu67q7dc" name="Установка Pyhton в Windows для работы с Word" author="" url="" tags="Python Windows Установка Word" ctime="20191124192131" dir="1574612491ntl9804vxr" file="text.html"/>
-    <record id="15752038461nm0rcp9pi" name="libpng12.so.0: cannot open shared object file: No such file or directory" author="" url="" tags="Ошибка Python" ctime="20191201153726" dir="15752038462sz3x0jxg1" file="text.html"/>
    </recordtable>
    <node crypt="" id="1574606255ukotpifd5s" name="Примеры кода">
     <recordtable>
@@ -111,15 +99,8 @@
      <files>
       <file id="1574664881oouzsr0fxb" fileName="Kharjo.jpeg" type="file"/>
       <file id="15746654469dzyk88lvu" fileName="Почта России_Гепард.jpeg" type="file"/>
-      <file id="1575133069cqpsm3mnll" fileName="UE4_logo-250x250.png" type="file"/>
      </files>
     </record>
-    <record id="1576628872blllkza6cs" name="Закладки браузера Brave" author="" url="" tags="" ctime="20191218032752" dir="1576628872odt0hvj8iv" file="text.html">
-     <files>
-      <file id="1576628877sbw1rdwqmf" fileName="bookmarks_18.12.2019.html" type="file"/>
-     </files>
-    </record>
-    <record id="157670120037mfh80up7" name="Цитаты" author="" url="" tags="" ctime="20191218233320" dir="15767012009lesi89lid" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1574606653nqvfm8ql2i" name="Windows">
@@ -129,40 +110,14 @@
   </node>
   <node crypt="" id="1574613263fqh2mi2e44" name="Blender">
    <recordtable>
+    <record id="15746138120jnpdm853y" name="Обязательные аддоны к Blender" author="" url="" tags="" ctime="20191124194332" dir="15746138128w91u1z0d7" file="text.html"/>
     <record id="1574614024fnf4j6dqwm" name="Общие примечания" author="" url="" tags="" ctime="20191124194704" dir="15746140247ep7dsdu6q" file="text.html"/>
     <record id="1574616872wigzkekm6n" name="Фоновое изображение" author="" url="" tags="" ctime="20191124203432" dir="1574616872mv8mqa8nr3" file="text.html"/>
-    <record id="1575116190wyivcxwe1l" name="Сочетания клавиш" author="" url="" tags="" ctime="20191130151630" dir="1575116190lpnx8x5d1g" file="text.html"/>
-    <record id="15751373229fx4z6tbbq" name="План. Дорожная карта." author="" url="" tags="" ctime="20191130210842" dir="1575137322iu80u9xzh0" file="text.html"/>
-    <record id="1575837761d7lgva3wbg" name="Применение модификаторов к отдельным вершинам (Pin_Group)" author="" url="" tags="Shrinkwrap Модификатор Pin_Group Человек Одежда" ctime="20191208234241" dir="1575837761k1n7ywn2ss" file="text.html"/>
-    <record id="1576709194nvfvjj7x4h" name="Ремень" author="" url="" tags="Blender Ремень Belt" ctime="20191219014634" dir="1576709194k5xaehdn7w" file="text.html">
-     <files>
-      <file id="15767092075qx3grkte7" fileName="Belt_1.blend" type="file"/>
-      <file id="157670920761i1c2k0fo" fileName="Belt_1.blend1" type="file"/>
-      <file id="1576709207hck7v9ktn6" fileName="Belt_2.blend" type="file"/>
-      <file id="15767092072tcfwt7w2l" fileName="Belt_2.blend1" type="file"/>
-      <file id="1576709207483m9v4avk" fileName="Belt_3.blend" type="file"/>
-      <file id="1576709207escyz7ozgb" fileName="Belt_3.blend1" type="file"/>
-      <file id="1576709207ly4yeg7ldp" fileName="Belt_4.blend" type="file"/>
-      <file id="1576709207mxy5zn14xc" fileName="Belt_4.blend1" type="file"/>
-      <file id="15767092074c5gqk3u0z" fileName="Belt_5.blend" type="file"/>
-      <file id="157670920761yqfsnmtg" fileName="Belt_5.blend1" type="file"/>
-      <file id="157670922278bkcx8aue" fileName="Кожа.jpg" type="file"/>
-      <file id="1576709222qcj2axuv4m" fileName="Металл.jpg" type="file"/>
-      <file id="1576709223wn48oglw6f" fileName="medieval-leather-belt-3d-090617496_iconl13.jpeg" type="file"/>
-     </files>
-    </record>
-    <record id="15767141139ob1s07y0w" name="Разрыв точек" author="" url="" tags="" ctime="20191219030833" dir="1576714113vwklij8b5y" file="text.html"/>
-    <record id="15771221346roha1i8l0" name="Обязательные настройки" author="" url="" tags="Blender Настройки" ctime="20191223202854" dir="1577122134xl1vkv46ap" file="text.html"/>
-    <record id="15771268683ah9s88z71" name="Кернинг текста" author="" url="" tags="Blender Текст" ctime="20191223214748" dir="1577126868mw5je4yswa" file="text.html"/>
-    <record id="1577448863u49bqnlabi" name="Настройка сцены (трехточечный свет)" author="" url="" tags="Blender Сцена Свет Текстурирование Текстуры" ctime="20191227151423" dir="1577448863tw6y9ov5wx" file="text.html"/>
    </recordtable>
    <node crypt="" id="157461698965z8ywobpf" name="Модификаторы">
     <recordtable>
      <record id="1574616905oze3sa75zk" name="Mirror" author="" url="" tags="" ctime="20191124203636" dir="1574616905d15t0671st" file="text.html"/>
      <record id="1574617029an5ei5ro0c" name="Subdivision Surface" author="" url="" tags="" ctime="20191124203709" dir="1574617029bjxc5yt66d" file="text.html"/>
-     <record id="1575308744dsfs5mbka5" name="Shrinkwrap (обтягивание)" author="" url="" tags="" ctime="20191202204544" dir="1575308744va01fw3brc" file="text.html"/>
-     <record id="1575309667kvi1gtfabm" name="Solidify (придать объекту толщину, например из полусферы получится тарелка)" author="" url="" tags="" ctime="20191202210107" dir="1575309667lmqoi3wm80" file="text.html"/>
-     <record id="1575309841g2eaxdhf31" name="Lattice" author="" url="" tags="" ctime="20191202210401" dir="1575309841jpxypsutso" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1574617171174omy191q" name="Физика">
@@ -197,117 +152,13 @@
        <file id="15747102383at8h6hplh" fileName="Test_Force_Field7.blend1" type="file"/>
       </files>
      </record>
-     <record id="157522514546fes87tpd" name="Ваза" author="" url="" tags="Ваза" ctime="20191201213225" dir="1575225145n2j3v4u4r7" file="text.html">
-      <files>
-       <file id="1575225165u23tmyygjp" fileName="vaza.blend" type="file"/>
-       <file id="157522516543bzh47pxw" fileName="vaza.blend1" type="file"/>
-       <file id="1575225165i3gti5461j" fileName="vaza1.blend" type="file"/>
-       <file id="15752251657cmq5o5jko" fileName="vaza1.blend1" type="file"/>
-       <file id="1575573152hw5e7nucct" fileName="vaza4.blend" type="file"/>
-       <file id="1575573152eyv5q2c05h" fileName="vaza4.blend1" type="file"/>
-      </files>
-     </record>
-     <record id="1575831347eykgpasazw" name="Тестирование одежды_меньшее количество полигонов" author="" url="" tags="" ctime="20191208215547" dir="157583134717tlbrrj64" file="text.html">
-      <files>
-       <file id="157583137299u2blt2lf" fileName="Cloth5.blend" type="file"/>
-       <file id="15758313726zdqwih48g" fileName="Cloth5.blend1" type="file"/>
-       <file id="1575836130svpllhx9x2" fileName="Cloth6.blend" type="file"/>
-       <file id="1575836130kb9egzrxyf" fileName="Cloth6.blend1" type="file"/>
-       <file id="1575836138477t88b6xo" fileName="Cloth7.blend" type="file"/>
-       <file id="1575836138ohzxvfd2dr" fileName="Cloth7.blend1" type="file"/>
-       <file id="1575921662aa739utlvt" fileName="Cloth_Grid_1_1.blend" type="file"/>
-       <file id="1575921662ghdtzng4wq" fileName="Cloth_Grid_1_2.blend" type="file"/>
-       <file id="1575921662wd2o740bcs" fileName="Cloth_Grid_1_2.blend1" type="file"/>
-       <file id="1575921662y3256r0zdv" fileName="Cloth_Grid_1_3.blend" type="file"/>
-       <file id="15759216628tsl28oisk" fileName="Cloth_Grid_1_3.blend1" type="file"/>
-      </files>
-     </record>
-     <record id="1576444837uire6qrmmp" name="Готовая тканевая накидка + ремень в процессе" author="" url="" tags="" ctime="20191216002037" dir="15764448376bak4p4zw1" file="text.html">
-      <files>
-       <file id="1576444853tg530a9lpl" fileName="Cloth_Grid_1_17.blend" type="file"/>
-       <file id="1576444853mj3edp4kb6" fileName="Cloth_Grid_1_17.blend1" type="file"/>
-       <file id="1576459198ebfzjvdfzl" fileName="Cloth_Grid_1_21.blend" type="file"/>
-       <file id="1576459198iia5909v44" fileName="Cloth_Grid_1_21.blend1" type="file"/>
-       <file id="1576531961nv4gx4gw6c" fileName="Cloth_Grid_1_32.blend" type="file"/>
-       <file id="1576531961femaqpuuab" fileName="Cloth_Grid_1_32.blend1" type="file"/>
-      </files>
-     </record>
-     <record id="1576517460hl74d4j74c" name="Шаблон для создания одежды (персонаж + сетка)" author="" url="" tags="" ctime="20191216203100" dir="1576517460eivwjpr2vo" file="text.html">
-      <files>
-       <file id="1576517546ufs5j68rzj" fileName="Cloth_Grid_1.blend" type="file"/>
-       <file id="1576517546jo5kz3te70" fileName="Cloth_Grid_1.blend1" type="file"/>
-      </files>
-     </record>
-    </recordtable>
-   </node>
-   <node crypt="" id="15751416653kf7yc9pia" name="Скриптинг">
-    <recordtable>
-     <record id="157514171134xdzuyefp" name="Пример_1. Добавление объекта. Blender 2.8.*" author="" url="" tags="Blender Python 2.8 Скриптинг Создание" ctime="20191130222151" dir="1575141711bwr6j5isa1" file="text.html"/>
-     <record id="1575144230yuxpcbibdq" name="Пример_1. Дополненный. Создание сетки" author="" url="" tags="Blender Python 2.8 Скриптинг Сетка Создание" ctime="20191130230350" dir="1575144230g66xsa5myo" file="text.html"/>
-     <record id="1575207579zerd8qzemn" name="Пример_1. Добавление к сетке симуляции ткани" author="" url="" tags="Blender Python 2.8 Скриптинг Сетка Создание Симуляция Ткань" ctime="20191201163939" dir="1575207579fqjbq04kyf" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="15752192466jg0ztccjm" name="Обязательные аддоны к Blender">
-    <recordtable>
-     <record id="1575219274zr1gsnbi0n" name="Node Wrangler" author="" url="" tags="Текстурирование Cntrl+T" ctime="20191201195434" dir="15752192747tizw8kheb" file="text.html"/>
-     <record id="15752193198tg9dalpnf" name="&#10;Smart UV Project" author="" url="" tags="UV-развертка" ctime="20191201195519" dir="15752193193ttg84vh72" file="text.html">
-      <files>
-       <file id="1575655816phkehl6bbk" fileName="CW_Smart_UV_Project_Selected_Objects_v0_1_0-1.zip" type="file"/>
-      </files>
-     </record>
-     <record id="1575219366q7u3u3yfa5" name="Blender for Unreal Engine" author="" url="" tags="Unreal Engine" ctime="20191201195606" dir="1575219366rpwwck95z5" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="15762508613pah70cutn" name="Импорт и экспорт">
-    <recordtable>
-     <record id="1576251036dj2ug5bnwe" name="Формат Nif" author="" url="" tags="" ctime="20191213183036" dir="1576251036a3txyq4p75" file="text.html">
-      <files>
-       <file id="1576251202cp1colirns" fileName="NifSkope_2_0_2018-02-22-x64.7z" type="file"/>
-      </files>
-     </record>
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1576250670huilyr72iv" name="Игры">
+  <node crypt="" id="1578657185hfp9od1eu2" name="Администрирование">
    <recordtable>
-    <record id="157625071302hvnqmaky" name="Thief Gold (Thief 1)" author="" url="" tags="" ctime="20191213182513" dir="15762507131ddjyrq5tp" file="text.html"/>
+    <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Администрирование Linux Windows Grub 2 Загрузчик USB" ctime="20200110145341" dir="15786572216m5bvtodoz" file="text.html"/>
    </recordtable>
-  </node>
-  <node crypt="" id="1576631066cbyuuhf3zb" name="Законодательство">
-   <recordtable>
-    <record id="1576631076okspgosjy8" name="Сбор доказательств" author="" url="" tags="" ctime="20191218040436" dir="15766310761nf0h9xxsx" file="text.html"/>
-    <record id="157663144259ytoxvegd" name="Госжилнадзор" author="" url="" tags="" ctime="20191218041042" dir="1576631442yz4dfnjdt7" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="1576844663dr3afxcecm" name="Магазины (торговые точки)">
-   <recordtable>
-    <record id="1576844700viyxzxivx1" name="Золото (украшения)" author="" url="" tags="Магазин Торговая Точка Golden Золото" ctime="20191220152500" dir="1576844700jq42hkzteb" file="text.html"/>
-    <record id="1577221362n1wfbxwwn2" name="Сетевая фирма Tapperware (высокотехнологичная посуда)" author="" url="" tags="Фирма Название Tapperware Посуда Высокая технология" ctime="20191225000242" dir="1577221362ot9p5rg08o" file="text.html"/>
-    <record id="157728342961pb9dtb8o" name="Кроссовки" author="" url="" tags="Кроссовки Обувь Бег Asics Компания Фирма Название Высокая технология" ctime="20191225171709" dir="1577283429ke5n79el7i" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="1576869615zvsxxti65r" name="Строительство">
-   <recordtable>
-    <record id="1576869706aoea92bd3p" name="Опыт реальной эксплуатции (от 2 до 13 лет). Альтернативная энергия" author="" url="" tags="#Вакуумный коллектор Солнечные батареи (панели) Ветряк Ветрогенератор" ctime="20191220222146" dir="1576869706w8t4l6djsi" file="text.html"/>
-    <record id="1576873741tc5fzvmyy6" name="Тепловой насос для отопления. Отличная теория и расчеты." author="" url="" tags="Тепловой насос Отопление Теория Расчеты" ctime="20191220232901" dir="1576873741uw4cz6mfun" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="15769333902pzoxnbdla" name="Психология">
-   <recordtable>
-    <record id="1576933411xuo2avjvje" name="Андрей Курпатов" author="" url="" tags="" ctime="20191221160331" dir="1576933411t718vywmrx" file="text.html"/>
-    <record id="1577300550vsj4oi512n" name="Этапы подготовки по системе Курпатова" author="" url="" tags="" ctime="20191225220230" dir="15773005505ttw5jdsa3" file="text.html"/>
-   </recordtable>
-   <node crypt="" id="1577096457qs0unb5pao" name="Андрей Курпатов">
-    <recordtable>
-     <record id="1577096488tra7kmyzp8" name="Борьба за спокойствие (4 этапа)" author="" url="" tags="Курпатов Психология Спокойствие Тревожность" ctime="20191223132128" dir="1577096488yptezgq5m0" file="text.html"/>
-     <record id="1577097816bbjk3bjugb" name="Здоровый эгоизм" author="" url="" tags="Курпатов Психология Эгоизм" ctime="20191223134336" dir="1577097816iisauu7wga" file="text.html"/>
-     <record id="1577098046yxgq6sy8b7" name="Цифровая гигиена" author="" url="" tags="Курпатов Психология Цифровая зависимость гигиена" ctime="20191223134726" dir="15770980465icpctsw76" file="text.html"/>
-     <record id="15770981846kl0c613a3" name="Тревога, разражени, тоска. Как справиться?" author="" url="" tags="Курпатов Психология Тоска Раздражение Тревога" ctime="20191223134944" dir="15770981845vjt8w9fhu" file="text.html"/>
-     <record id="1577098729u196cyvfci" name="Когнитивные искажения" author="" url="" tags="Курпатов Психология Когнитивные искажения" ctime="20191223135849" dir="1577098729dyzg3cnhtt" file="text.html"/>
-     <record id="1577099262medgq8jd97" name="Разрдажение (5 способов ремонта)" author="" url="" tags="Курпатов Психология Раздражение Способ" ctime="20191223140742" dir="1577099262k9ds1erbpn" file="text.html"/>
-     <record id="15771010147k7tvrn2hk" name="Упражнение. 23 минуты." author="" url="" tags="Курпатов Психология" ctime="20191223143654" dir="15771010141a0t7pxd9g" file="text.html"/>
-    </recordtable>
-   </node>
   </node>
  </content>
 </root>
