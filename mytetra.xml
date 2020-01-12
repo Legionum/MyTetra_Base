@@ -160,6 +160,12 @@
     <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200110145341" dir="15786572216m5bvtodoz" file="text.html"/>
     <record id="1578657814dstldcs8lj" name="Загрузчик Grub" author="" url="" tags="Загрузчик Grub Linux Windows USB" ctime="20200110150334" dir="1578657814ey8ixln68a" file="text.html"/>
     <record id="1578834704nzesyd291p" name="Ручное создание загрузчика на флешке. Ручное редактирование меню." author="" url="" tags="Grub Мультизагрузочная флешка Меню Редактирование" ctime="20200112161144" dir="1578834704aimjvpdt6o" file="text.html"/>
+    <record id="1578834868ej6arszuso" name="Утилиты для создания загрузочной флешки" author="" url="" tags="" ctime="20200112161428" dir="1578834868sba0mlm7jq" file="text.html">
+     <files>
+      <file id="1578834875eynof9p1w9" fileName="BOOTICE_2016.06.17_v1.3.4.0.rar" type="file"/>
+      <file id="157883494730hz5serak" fileName="grub4dos-0.4.6a-2014-01-17.7z" type="file"/>
+     </files>
+    </record>
    </recordtable>
   </node>
  </content>
