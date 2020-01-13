@@ -1,0 +1,50 @@
+grub-install --boot-directory=/media/legio/USB_T/boot --root-directory=/media/legio/USB_T /dev/sdb 
+
+
+--efi-directory=/mnt/efi
+
+
+grub-install --removable --efi-directory=/media/legio/USB_T --boot-directory=/media/legio/USB_T/boot --root-directory=/media/legio/USB_T /dev/sdb
+
+
+
+
+
+
+
+grub-install --removable --efi-directory=/mnt/USB --boot-directory=/mnt/USB/boot --root-directory=/mnt/USB /dev/sdb
+
+
+
+
+Отформатировать флешку. 
+Формат FAT32.
+Установить флаг BOOT.
+
+
+
+1) Назвать флешку USB_T (или любым другим именем)
+
+2) Посмотреть список подключенных флешек
+
+sudo fdisk -l
+
+Возможно флешка будет отображаться как sdb
+sdb - устройство
+sdb1 - раздел на флешке
+
+3) Создать папку для монтирования (например /mnt/USB)
+
+sudo mkdir /mnt/USB
+
+4) Смонтировать флешку в папку (автоматическое монтирование в media возможно не подходит, нужно проверить)
+
+mount /dev/sdb1 /mnt/USB
+
+5) grub-install --removable --target=x86_64-efi --boot-directory=/mnt/USB/boot --efi-directory=/mnt/USB/ /dev/sdb
+
+6) Отмонтировать флешку
+
+umount /mnt/USB
+
+grub-install --removable --target=x86_64-efi --boot-directory=/mnt/USB/boot --efi-directory=/mnt/USB/ /dev/sdb

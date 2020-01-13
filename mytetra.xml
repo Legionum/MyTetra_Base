@@ -157,7 +157,12 @@
   </node>
   <node crypt="" id="1578657185hfp9od1eu2" name="Администрирование">
    <recordtable>
-    <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200110145341" dir="15786572216m5bvtodoz" file="text.html"/>
+    <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200110145341" dir="15786572216m5bvtodoz" file="text.html">
+     <files>
+      <file id="1578920911g4xf4hqxx6" fileName="Команды установки" type="file"/>
+      <file id="15789209113dgwvuikxd" fileName="Пример настроек" type="file"/>
+     </files>
+    </record>
     <record id="1578657814dstldcs8lj" name="Загрузчик Grub" author="" url="" tags="Загрузчик Grub Linux Windows USB" ctime="20200110150334" dir="1578657814ey8ixln68a" file="text.html"/>
     <record id="1578834704nzesyd291p" name="Ручное создание загрузчика на флешке. Ручное редактирование меню." author="" url="" tags="Grub Мультизагрузочная флешка Меню Редактирование" ctime="20200112161144" dir="1578834704aimjvpdt6o" file="text.html"/>
     <record id="1578834868ej6arszuso" name="Утилиты для создания загрузочной флешки" author="" url="" tags="" ctime="20200112161428" dir="1578834868sba0mlm7jq" file="text.html">
