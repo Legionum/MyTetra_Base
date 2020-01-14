@@ -171,6 +171,11 @@
       <file id="157883494730hz5serak" fileName="grub4dos-0.4.6a-2014-01-17.7z" type="file"/>
      </files>
     </record>
+    <record id="1579010982vst6k8zjmm" name="Загрузчик. Конфигурационный файл" author="" url="" tags="Grub2 Menu Меню Файл готовый пример" ctime="20200114170942" dir="15790109822yctnuerld" file="text.html">
+     <files>
+      <file id="15790110043qvvzjpuqq" fileName="grub.cfg" type="file"/>
+     </files>
+    </record>
    </recordtable>
   </node>
  </content>
