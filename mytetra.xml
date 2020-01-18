@@ -73,6 +73,18 @@
      <record id="1574606534pp8i5bifu4" name="Paradox Interactive. Папка сохранений и модов" author="" url="" tags="" ctime="20191124174214" dir="1574606534aow0y4c6yi" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1579383394c37vtpyfw0" name="KDE">
+    <recordtable>
+     <record id="1579383416rd7frtpagl" name="Новый пункт меню" author="" url="" tags="" ctime="20200119003656" dir="15793834162i8pt2vrx7" file="text.html">
+      <files>
+       <file id="1579383425hg1q6u8h15" fileName="Примечания" type="file"/>
+       <file id="1579383425o8zvnqps15" fileName="S.sh" type="file"/>
+       <file id="1579383425thylr50ohu" fileName="S1.sh" type="file"/>
+       <file id="15793834257za8pwixdj" fileName="Script.desktop" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
