@@ -85,6 +85,11 @@
      </record>
     </recordtable>
    </node>
+   <node crypt="" id="1579771840u9e477lknu" name="Команды">
+    <recordtable>
+     <record id="157977187911pnt16e21" name="Хеш-сумма" author="" url="" tags="Хеш-сумма SHA256 целостность проверка хэш-сумма hesh" ctime="20200123123119" dir="1579771879064eqrlrro" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
