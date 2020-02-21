@@ -90,6 +90,13 @@
      <record id="157977187911pnt16e21" name="Хеш-сумма" author="" url="" tags="Хеш-сумма SHA256 целостность проверка хэш-сумма hesh" ctime="20200123123119" dir="1579771879064eqrlrro" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1582290263miqpcbxzjt" name="Manjaro">
+    <node crypt="" id="1582290272xp6b8s17kz" name="Установка">
+     <recordtable>
+      <record id="1582290281kc6hmyr78w" name="Yay" author="" url="" tags="" ctime="20200221160441" dir="15822902814dxaom35t3" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
