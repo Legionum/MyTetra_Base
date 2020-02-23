@@ -1,0 +1,221 @@
+//+------------------------------------------------------------------+
+//|                                                          hod.mq4 |
+//|                        Copyright 2015, MetaQuotes Software Corp. |
+//|                                             https://www.mql5.com |
+//+------------------------------------------------------------------+
+#property copyright "Copyright 2015, MetaQuotes Software Corp."
+#property link      "https://www.mql5.com"
+#property version   "1.00"
+#property strict
+#property indicator_chart_window
+
+int days=20;
+input string symbol1 = "BITCOIN";
+
+color lastusedColor = Red;
+double lastusedFontSize = 14.0;
+string lastusedFont = "Arial";
+
+
+int OnInit()
+               {
+               info_init();
+	        info( 0, "Эксперт info_test успешно загружен", Red );
+         
+               return(INIT_SUCCEEDED);
+               }
+//+------------------------------------------------------------------+
+//| Custom indicator iteration function                              |
+//+------------------------------------------------------------------+
+int start()
+{         //
+//price_move[i]=MathAbs(iHigh(symbol,PERIOD_D1,i)-iLow(symbol,PERIOD_D1,i));
+//double hod=0;
+//hod =iHigh( "#Bitcoin",PERIOD_D1,1)-iLow( "#Bitcoin",PERIOD_D1,1);
+//Comment("Ход цены за предыдущий день = ", hod);
+//Comment("Высокая цена = ", iHigh("#Bitcoin",PERIOD_D1,1));
+//printf(Symbol());
+//Comment(Symbol());
+//ChartRedraw();
+//WindowRedraw();    
+//ObjectSet("InfoLabel_0", OBJ_TEXT, "12345");
+//ObjectSetInteger(ChartID(),"InfoLabel_0",OBJPROP_COLOR,clrRed);
+
+
+
+
+info( 1, hod(), Red );
+                                    
+return(0);
+
+ 
+
+
+}    // к функции int start ()
+
+
+
+
+
+
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+// void info_init()
+//
+// Создание объектов для вывода информации на экран
+/////////////////////////////////////////////////////////////////////////////////
+void info_init()
+{
+	for ( int row = 0; row <= 4; row ++ )
+	{
+		_LabelCreate( StringConcatenate( "InfoLabel_0", row ),   4, 15 + 15*row );
+		_LabelCreate( StringConcatenate( "InfoLabel_1", row ), 270, 15 + 15*row );
+	}
+}
+
+/////////////////////////////////////////////////////////////////////////////////
+// void _LabelCreate ( string _Name, int _XDistance, int _YDistance, int _Corner = 0 )
+//
+// Создание объекта "Текстовая метка" с именем _Name.
+// Координаты: х = _XDistance, у = _YDistance, угол = _Corner.
+/////////////////////////////////////////////////////////////////////////////////
+void _LabelCreate ( string _Name, int _XDistance, int _YDistance, int _Corner = 0 )
+{
+	int _GetLastError;
+
+	if ( !ObjectCreate( _Name, OBJ_LABEL, 0, 0, 0 ) )
+	{
+		_GetLastError = GetLastError();
+		if ( _GetLastError != 4200 )
+		{
+			Print( "ObjectCreate( \"", _Name, "\", OBJ_LABEL,0,0,0 ) - Error #", _GetLastError );
+			//return(-1);
+			return;
+		}
+	}
+	if ( !ObjectSet( _Name, OBJPROP_CORNER, _Corner ) )
+	{
+		_GetLastError = GetLastError();
+		Print( "ObjectSet( \"", _Name, "\", OBJPROP_CORNER, ", _Corner, 
+													" ) - Error #", _GetLastError );
+	}
+	if ( !ObjectSet( _Name, OBJPROP_XDISTANCE, _XDistance ) )
+	{
+		_GetLastError = GetLastError();
+		Print( "ObjectSet( \"", _Name, "\", OBJPROP_XDISTANCE, ", _XDistance, 
+															" ) - Error #", _GetLastError );
+	}
+	if ( !ObjectSet( _Name, OBJPROP_YDISTANCE, _YDistance ) )
+	{
+		_GetLastError = GetLastError();
+		Print( "ObjectSet( \"", _Name, "\", OBJPROP_YDISTANCE, ", _YDistance, 
+															" ) - Error #", _GetLastError );
+	}
+	if ( !ObjectSetText ( _Name, "", 10 ) )
+	{
+		_GetLastError = GetLastError();
+		Print( "ObjectSetText( \"", _Name, "\", \"\", 10 ) - Error #", _GetLastError );
+	}
+}
+
+/////////////////////////////////////////////////////////////////////////////////
+// void info_deinit()
+//
+// Удаление объектов, созданных функцией info_init()
+/////////////////////////////////////////////////////////////////////////////////
+void info_deinit()
+{
+	int _GetLastError;
+	for ( int row = 0; row <= 4; row ++ )
+	{
+		if ( !ObjectDelete( StringConcatenate( "InfoLabel_0", row ) ) )
+		{
+			_GetLastError = GetLastError();
+			Print( "ObjectDelete( \"", StringConcatenate( "InfoLabel_0", row ), 
+															"\" ) - Error #", _GetLastError );
+		}
+		if ( !ObjectDelete( StringConcatenate( "InfoLabel_1", row ) ) )
+		{
+			_GetLastError = GetLastError();
+			Print( "ObjectDelete( \"", StringConcatenate( "InfoLabel_1", row ), 
+															"\" ) - Error #", _GetLastError );
+		}
+	}
+}
+
+void info( int LabelNumber, string Text, color Color = -1, 
+			  double FontSize = -1.0, string Font = "-1" )
+{
+	//---- определяем имя объекта
+	string LabelName;
+	if ( LabelNumber < 10 )
+		LabelName = StringConcatenate( "InfoLabel_0", LabelNumber );
+	else
+		LabelName = StringConcatenate( "InfoLabel_" , LabelNumber );
+
+	//---- если значения дополнительных параметров не задавались, 
+	//---- устанавливаем последние используемые значения
+	if ( Color < 0 ) Color = lastusedColor;
+	if ( FontSize < 0 ) FontSize = lastusedFontSize;
+	if ( Font == "-1" ) Font = lastusedFont;
+
+	//---- запоминаем последние используемые значения
+	lastusedColor = Color;
+	lastusedFontSize = FontSize;
+	lastusedFont = Font;
+
+	//---- отображаем новый текст
+	if ( !ObjectSetText( LabelName, Text, FontSize, Font, Color ) )
+	{
+		int _GetLastError = GetLastError();
+		Print( "ObjectSetText( \"", LabelName,"\", \"", Text, "\", ", FontSize, ", ", Font, 
+															", ", Color, " ) - Error #", _GetLastError );
+	}
+	//---- перерисовываем объекты
+	ObjectsRedraw();
+}
+void info_clear()
+{
+	for ( int n = 0;  n < 5;  n ++ ) info( n, "" );
+	for (int  n = 10; n < 15; n ++ ) info( n, "" );
+}
+
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+//*****************************************************************************************************************************************************************
+
+
+double hod()
+            {
+            
+            //price_move[i]=MathAbs(iHigh(symbol,PERIOD_D1,i)-iLow(symbol,PERIOD_D1,i));
+//double hod=0;
+//hod =iHigh( "#Bitcoin",PERIOD_D1,1)-iLow( "#Bitcoin",PERIOD_D1,1);
+//Comment("Ход цены за предыдущий день = ", hod);
+//Comment("Высокая цена = ", iHigh("#Bitcoin",PERIOD_D1,1));
+//printf(Symbol());
+//Comment(Symbol());
+//ChartRedraw();
+//WindowRedraw();    
+//ObjectSet("InfoLabel_0", OBJ_TEXT, "12345");
+//ObjectSetInteger(ChartID(),"InfoLabel_0",OBJPROP_COLOR,clrRed);
+
+            double hod=0;
+            hod =iHigh(Symbol(),PERIOD_D1,1)-iLow(Symbol(),PERIOD_D1,1);
+                        
+            return hod;
+            } 

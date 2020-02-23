@@ -220,5 +220,14 @@
     <record id="1579800324m03c5xdxde" name="Проверочная запись" author="" url="" tags="" ctime="20200123202524" dir="1579800324frnspgt7ss" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1582495386lkmebwtzz0" name="Торговля">
+   <recordtable>
+    <record id="1582495425qpn5m6ikvo" name="Индикатор для отображения среднего хода цены за день" author="" url="" tags="#Forex Индикатор Торговля Разработка" ctime="20200224010345" dir="158249542572l9gc5qbl" file="text.html">
+     <files>
+      <file id="15824954390xfg4acnbe" fileName="hodok_2020" type="file"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
  </content>
 </root>
