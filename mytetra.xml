@@ -77,11 +77,6 @@
     </record>
    </recordtable>
   </node>
-  <node crypt="" id="1574606653nqvfm8ql2i" name="Windows">
-   <recordtable>
-    <record id="15746066730kgu63laa8" name="Официальные ключи" author="" url="" tags="Windows Ключи" ctime="20191124174433" dir="15746066732bnxr9mhb4" file="text.html"/>
-   </recordtable>
-  </node>
   <node crypt="" id="1574613263fqh2mi2e44" name="Blender">
    <recordtable>
     <record id="15746138120jnpdm853y" name="Обязательные аддоны к Blender" author="" url="" tags="" ctime="20191124194332" dir="15746138128w91u1z0d7" file="text.html"/>
@@ -147,6 +142,9 @@
       <record id="1574604936rtkr48m2qx" name="Шрифты Microsoft" author="" url="" tags="Linux Установка Программы Зависимости Шрифты Microsoft" ctime="20200314205512" dir="1574604936hlxx1sgt8u" file="text.html"/>
       <record id="1574605427xdv05qq779" name="Установка Github" author="" url="" tags="Linux Установка Программы Github" ctime="20200314205512" dir="1574605427kdlqrxf3nl" file="text.html"/>
       <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20200315000554" dir="15746046433ytqy147kp" file="text.html"/>
+      <record id="1582290281kc6hmyr78w" name="Yay" author="" url="" tags="Manjaro установка" ctime="20200315002736" dir="15822902814dxaom35t3" file="text.html"/>
+      <record id="1582291198aux49o3r6y" name="Virtual Box" author="" url="" tags="Virtual Box Manjaro Установка Настройка" ctime="20200315002742" dir="1582291198o0jyh8me0b" file="text.html"/>
+      <record id="1582291553t5ohpricok" name="pacman" author="" url="" tags="Manjaro установка" ctime="20200315002748" dir="1582291553uyz507o49v" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15842085120xg8fwge61" name="Настройка">
@@ -183,15 +181,6 @@
       <record id="157977187911pnt16e21" name="Хеш-сумма" author="" url="" tags="Хеш-сумма SHA256 целостность проверка хэш-сумма hesh" ctime="20200314205512" dir="1579771879064eqrlrro" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1584208512sofycrvy0z" name="Manjaro">
-     <node crypt="" id="15842085126kvmstm6m8" name="Установка">
-      <recordtable>
-       <record id="1582290281kc6hmyr78w" name="Yay" author="" url="" tags="Manjaro установка" ctime="20200314205512" dir="15822902814dxaom35t3" file="text.html"/>
-       <record id="1582291198aux49o3r6y" name="Virtual Box" author="" url="" tags="Virtual Box Manjaro Установка Настройка" ctime="20200314205512" dir="1582291198o0jyh8me0b" file="text.html"/>
-       <record id="1582291553t5ohpricok" name="pacman" author="" url="" tags="Manjaro установка" ctime="20200314205512" dir="1582291553uyz507o49v" file="text.html"/>
-      </recordtable>
-     </node>
-    </node>
     <node crypt="" id="1584219678vfxi9rlrnw" name="Загрузчик">
      <recordtable>
       <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200315000125" dir="15786572216m5bvtodoz" file="text.html">
@@ -215,6 +204,11 @@
       </record>
      </recordtable>
     </node>
+   </node>
+   <node crypt="" id="1584221321f5m68nzlos" name="Windows">
+    <recordtable>
+     <record id="15746066730kgu63laa8" name="Официальные ключи" author="" url="" tags="Windows Ключи" ctime="20200315002841" dir="15746066732bnxr9mhb4" file="text.html"/>
+    </recordtable>
    </node>
   </node>
   <node crypt="" id="1582495386lkmebwtzz0" name="Торговля">
