@@ -140,28 +140,6 @@
     </recordtable>
    </node>
    <node crypt="" id="1584208512cp5xqdhsqa" name="Linux">
-    <recordtable>
-     <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200314205538" dir="15786572216m5bvtodoz" file="text.html">
-      <files>
-       <file id="1578920911g4xf4hqxx6" fileName="Команды установки" type="file"/>
-       <file id="15789209113dgwvuikxd" fileName="Пример настроек" type="file"/>
-      </files>
-     </record>
-     <record id="1578657814dstldcs8lj" name="Загрузчик Grub" author="" url="" tags="Загрузчик Grub Linux Windows USB" ctime="20200314205544" dir="1578657814ey8ixln68a" file="text.html"/>
-     <record id="1578834704nzesyd291p" name="Ручное создание загрузчика на флешке. Ручное редактирование меню." author="" url="" tags="Grub Мультизагрузочная флешка Меню Редактирование" ctime="20200314205549" dir="1578834704aimjvpdt6o" file="text.html"/>
-     <record id="1578834868ej6arszuso" name="Утилиты для создания загрузочной флешки" author="" url="" tags="" ctime="20200314205555" dir="1578834868sba0mlm7jq" file="text.html">
-      <files>
-       <file id="1578834875eynof9p1w9" fileName="BOOTICE_2016.06.17_v1.3.4.0.rar" type="file"/>
-       <file id="157883494730hz5serak" fileName="grub4dos-0.4.6a-2014-01-17.7z" type="file"/>
-      </files>
-     </record>
-     <record id="1579010982vst6k8zjmm" name="Загрузчик. Конфигурационный файл" author="" url="" tags="Grub2 Menu Меню Файл готовый пример" ctime="20200314205559" dir="15790109822yctnuerld" file="text.html">
-      <files>
-       <file id="1579011995ykuayepryo" fileName="grub.cfg" type="file"/>
-      </files>
-     </record>
-     <record id="158065017039xjpmruvk" name="Установка драйверов Nvidia в Manjaro (домашний компьютер)" author="" url="" tags="Manjaro Nvidia Домашний компьютер" ctime="20200314205603" dir="1580650170vkdqw995r3" file="text.html"/>
-    </recordtable>
     <node crypt="" id="1584208512r87236f703" name="Установка">
      <recordtable>
       <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20200314205512" dir="15746046433ytqy147kp" file="text.html"/>
@@ -179,6 +157,7 @@
       <record id="15746051233lnu4ic1hx" name="Установка 7-zip" author="" url="" tags="Linux 7-zip Архиватор Распаковка" ctime="20200314205512" dir="1574605123ondofl80sr" file="text.html"/>
       <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20200314205512" dir="1574605198w160vqinsf" file="text.html"/>
       <record id="15746749824rlgmdttjd" name="Обход ограничений Yota при безлимитной раздаче" author="" url="" tags="" ctime="20200314205512" dir="1574674982o6riwls63r" file="text.html"/>
+      <record id="158065017039xjpmruvk" name="Установка драйверов Nvidia в Manjaro (домашний компьютер)" author="" url="" tags="Manjaro Nvidia Домашний компьютер" ctime="20200315000044" dir="1580650170vkdqw995r3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15842085123jq8wwltos" name="Игры">
@@ -212,6 +191,29 @@
        <record id="1582291553t5ohpricok" name="pacman" author="" url="" tags="Manjaro установка" ctime="20200314205512" dir="1582291553uyz507o49v" file="text.html"/>
       </recordtable>
      </node>
+    </node>
+    <node crypt="" id="1584219678vfxi9rlrnw" name="Загрузчик">
+     <recordtable>
+      <record id="1578657221fve87595rd" name="Загрузчик Grub 2" author="" url="" tags="Linux Windows Grub 2 Загрузчик USB" ctime="20200315000125" dir="15786572216m5bvtodoz" file="text.html">
+       <files>
+        <file id="1578920911g4xf4hqxx6" fileName="Команды установки" type="file"/>
+        <file id="15789209113dgwvuikxd" fileName="Пример настроек" type="file"/>
+       </files>
+      </record>
+      <record id="1578657814dstldcs8lj" name="Загрузчик Grub" author="" url="" tags="Загрузчик Grub Linux Windows USB" ctime="20200315000131" dir="1578657814ey8ixln68a" file="text.html"/>
+      <record id="1578834704nzesyd291p" name="Ручное создание загрузчика на флешке. Ручное редактирование меню." author="" url="" tags="Grub Мультизагрузочная флешка Меню Редактирование" ctime="20200315000136" dir="1578834704aimjvpdt6o" file="text.html"/>
+      <record id="1578834868ej6arszuso" name="Утилиты для создания загрузочной флешки" author="" url="" tags="Grub Мультизагрузочная флешка Меню Редактирование" ctime="20200315000141" dir="1578834868sba0mlm7jq" file="text.html">
+       <files>
+        <file id="1578834875eynof9p1w9" fileName="BOOTICE_2016.06.17_v1.3.4.0.rar" type="file"/>
+        <file id="157883494730hz5serak" fileName="grub4dos-0.4.6a-2014-01-17.7z" type="file"/>
+       </files>
+      </record>
+      <record id="1579010982vst6k8zjmm" name="Загрузчик. Конфигурационный файл" author="" url="" tags="Grub2 Menu Меню Файл готовый пример" ctime="20200315000148" dir="15790109822yctnuerld" file="text.html">
+       <files>
+        <file id="1579011995ykuayepryo" fileName="grub.cfg" type="file"/>
+       </files>
+      </record>
+     </recordtable>
     </node>
    </node>
   </node>
