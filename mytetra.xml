@@ -125,15 +125,6 @@
    </node>
   </node>
   <node crypt="" id="1578657185hfp9od1eu2" name="Администрирование">
-   <node crypt="" id="1579158422mcu3kaod78" name="Мультизагрузочная флешка">
-    <recordtable>
-     <record id="15791584512cca2d3wtt" name="1_Алгоритм создания мультизагрузочной флешки" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная" ctime="20200116100731" dir="1579158451k6huph4ebs" file="text.html"/>
-     <record id="1579158502xj7vznhoed" name="2_Копирование необходимых файлов и метки разделов, команды" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная Команды Метки" ctime="20200116100822" dir="1579158502syt543f4x6" file="text.html"/>
-     <record id="1579158580qygllny10t" name="3_Содержимое файла grub.cfg" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная Команды Метки Grub.cfg Файл" ctime="20200116100940" dir="15791585805r9a8m2hhm" file="text.html"/>
-     <record id="1579168655es4kzkadm1" name="Заметка" author="" url="" tags="" ctime="20200116125735" dir="15791686559mcflndqw6" file="text.html"/>
-     <record id="1579377367wfo5ccqoer" name="4_Проверка загрузочной флешки с помощью Qemu" author="" url="" tags="" ctime="20200118225607" dir="1579377367mypvgxi3d1" file="text.html"/>
-    </recordtable>
-   </node>
    <node crypt="" id="1584208512cp5xqdhsqa" name="Linux">
     <node crypt="" id="1584208512r87236f703" name="Установка">
      <recordtable>
@@ -202,6 +193,15 @@
         <file id="1579011995ykuayepryo" fileName="grub.cfg" type="file"/>
        </files>
       </record>
+     </recordtable>
+    </node>
+    <node crypt="" id="1584221368u1hq0mtgcx" name="Мультизагрузочная флешка">
+     <recordtable>
+      <record id="15791584512cca2d3wtt" name="1_Алгоритм создания мультизагрузочной флешки" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная" ctime="20200315002928" dir="1579158451k6huph4ebs" file="text.html"/>
+      <record id="1579158502xj7vznhoed" name="2_Копирование необходимых файлов и метки разделов, команды" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная Команды Метки" ctime="20200315002928" dir="1579158502syt543f4x6" file="text.html"/>
+      <record id="1579158580qygllny10t" name="3_Содержимое файла grub.cfg" author="" url="" tags="Ubuntu Grub Флешка USB Мультизагрузочная Команды Метки Grub.cfg Файл" ctime="20200315002928" dir="15791585805r9a8m2hhm" file="text.html"/>
+      <record id="1579168655es4kzkadm1" name="Заметка" author="" url="" tags="" ctime="20200315002928" dir="15791686559mcflndqw6" file="text.html"/>
+      <record id="1579377367wfo5ccqoer" name="4_Проверка загрузочной флешки с помощью Qemu" author="" url="" tags="" ctime="20200315002928" dir="1579377367mypvgxi3d1" file="text.html"/>
      </recordtable>
     </node>
    </node>
