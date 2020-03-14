@@ -48,58 +48,6 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1574604551i3u845k89v" name="Linux">
-   <node crypt="" id="1574605268s5cwmrrj9o" name="Установка">
-    <recordtable>
-     <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20191124172115" dir="15746046433ytqy147kp" file="text.html"/>
-     <record id="1574604804laq0he759n" name="Работа с пакетами. Aptitude" author="" url="" tags="Linux Установка Программы Зависимости Aptitude" ctime="20191124172125" dir="1574604804rkkqd0w266" file="text.html"/>
-     <record id="1574604760u9jtfp9quj" name="Проблемы при установке программ" author="" url="" tags="Linux Установка Программы Зависимости Apt" ctime="20191124172133" dir="1574604760z340t1zctg" file="text.html"/>
-     <record id="1574604936rtkr48m2qx" name="Шрифты Microsoft" author="" url="" tags="Linux Установка Программы Зависимости Шрифты Microsoft" ctime="20191124172147" dir="1574604936hlxx1sgt8u" file="text.html"/>
-     <record id="1574605427xdv05qq779" name="Установка Github" author="" url="" tags="Linux Установка Программы Github" ctime="20191124172347" dir="1574605427kdlqrxf3nl" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1574605329oa36kharom" name="Настройка">
-    <recordtable>
-     <record id="1574604871twsrfq0cd2" name="Живые обои" author="" url="" tags="Linux Установка Программы Зависимости Обои" ctime="20191124172222" dir="1574604871yk43ygluwp" file="text.html"/>
-     <record id="1574604989e0r03q6v7v" name="Время в Linux и Windows на одной ПЭВМ" author="" url="" tags="Linux Время Windows Настройка" ctime="20191124172228" dir="157460498970fcx8j1hj" file="text.html"/>
-     <record id="1574605058mmn7j6v666" name="Распаковка rar архивов" author="" url="" tags="Linux Winrar Распаковка" ctime="20191124172234" dir="1574605058wv1syb8ezl" file="text.html"/>
-     <record id="15746051233lnu4ic1hx" name="Установка 7-zip" author="" url="" tags="Linux 7-zip Архиватор Распаковка" ctime="20191124172239" dir="1574605123ondofl80sr" file="text.html"/>
-     <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20191124172243" dir="1574605198w160vqinsf" file="text.html"/>
-     <record id="15746749824rlgmdttjd" name="Обход ограничений Yota при безлимитной раздаче" author="" url="" tags="" ctime="20191125124302" dir="1574674982o6riwls63r" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1574606478gcunllh8ot" name="Игры">
-    <recordtable>
-     <record id="1574606534pp8i5bifu4" name="Paradox Interactive. Папка сохранений и модов" author="" url="" tags="" ctime="20191124174214" dir="1574606534aow0y4c6yi" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1579383394c37vtpyfw0" name="KDE">
-    <recordtable>
-     <record id="1579383416rd7frtpagl" name="Новый пункт меню" author="" url="" tags="" ctime="20200119003656" dir="15793834162i8pt2vrx7" file="text.html">
-      <files>
-       <file id="1579383425hg1q6u8h15" fileName="Примечания" type="file"/>
-       <file id="1579383425o8zvnqps15" fileName="S.sh" type="file"/>
-       <file id="1579383425thylr50ohu" fileName="S1.sh" type="file"/>
-       <file id="15793834257za8pwixdj" fileName="Script.desktop" type="file"/>
-      </files>
-     </record>
-    </recordtable>
-   </node>
-   <node crypt="" id="1579771840u9e477lknu" name="Команды">
-    <recordtable>
-     <record id="157977187911pnt16e21" name="Хеш-сумма" author="" url="" tags="Хеш-сумма SHA256 целостность проверка хэш-сумма hesh" ctime="20200123123119" dir="1579771879064eqrlrro" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1582290263miqpcbxzjt" name="Manjaro">
-    <node crypt="" id="1582290272xp6b8s17kz" name="Установка">
-     <recordtable>
-      <record id="1582290281kc6hmyr78w" name="Yay" author="" url="" tags="Manjaro установка" ctime="20200221160441" dir="15822902814dxaom35t3" file="text.html"/>
-      <record id="1582291198aux49o3r6y" name="Virtual Box" author="" url="" tags="Virtual Box Manjaro Установка Настройка" ctime="20200221161958" dir="1582291198o0jyh8me0b" file="text.html"/>
-      <record id="1582291553t5ohpricok" name="pacman" author="" url="" tags="Manjaro установка" ctime="20200221162553" dir="1582291553uyz507o49v" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
   <node crypt="" id="15746055234r1bdasmqj" name="Python">
    <recordtable>
     <record id="1574605592czqnsn0zkm" name="Установка Python последней или предпоследней версии" author="" url="" tags="Linux Python Установка" ctime="20191124172632" dir="1574605592iuxjlrtdd0" file="text.html"/>
@@ -214,11 +162,58 @@
      <record id="1579377367wfo5ccqoer" name="4_Проверка загрузочной флешки с помощью Qemu" author="" url="" tags="" ctime="20200118225607" dir="1579377367mypvgxi3d1" file="text.html"/>
     </recordtable>
    </node>
-  </node>
-  <node crypt="" id="1579800314j1wid1iciz" name="Тестовая ветка">
-   <recordtable>
-    <record id="1579800324m03c5xdxde" name="Проверочная запись" author="" url="" tags="" ctime="20200123202524" dir="1579800324frnspgt7ss" file="text.html"/>
-   </recordtable>
+   <node crypt="" id="1584208512cp5xqdhsqa" name="Linux">
+    <node crypt="" id="1584208512r87236f703" name="Установка">
+     <recordtable>
+      <record id="1574604643k5wu152aix" name="Скачивание пакета deb со всеми зависимостями" author="" url="" tags="Linux Debian Пакет Зависимости Скачивание Apt" ctime="20200314205512" dir="15746046433ytqy147kp" file="text.html"/>
+      <record id="1574604804laq0he759n" name="Работа с пакетами. Aptitude" author="" url="" tags="Linux Установка Программы Зависимости Aptitude" ctime="20200314205512" dir="1574604804rkkqd0w266" file="text.html"/>
+      <record id="1574604760u9jtfp9quj" name="Проблемы при установке программ" author="" url="" tags="Linux Установка Программы Зависимости Apt" ctime="20200314205512" dir="1574604760z340t1zctg" file="text.html"/>
+      <record id="1574604936rtkr48m2qx" name="Шрифты Microsoft" author="" url="" tags="Linux Установка Программы Зависимости Шрифты Microsoft" ctime="20200314205512" dir="1574604936hlxx1sgt8u" file="text.html"/>
+      <record id="1574605427xdv05qq779" name="Установка Github" author="" url="" tags="Linux Установка Программы Github" ctime="20200314205512" dir="1574605427kdlqrxf3nl" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="15842085120xg8fwge61" name="Настройка">
+     <recordtable>
+      <record id="1574604871twsrfq0cd2" name="Живые обои" author="" url="" tags="Linux Установка Программы Зависимости Обои" ctime="20200314205512" dir="1574604871yk43ygluwp" file="text.html"/>
+      <record id="1574604989e0r03q6v7v" name="Время в Linux и Windows на одной ПЭВМ" author="" url="" tags="Linux Время Windows Настройка" ctime="20200314205512" dir="157460498970fcx8j1hj" file="text.html"/>
+      <record id="1574605058mmn7j6v666" name="Распаковка rar архивов" author="" url="" tags="Linux Winrar Распаковка" ctime="20200314205512" dir="1574605058wv1syb8ezl" file="text.html"/>
+      <record id="15746051233lnu4ic1hx" name="Установка 7-zip" author="" url="" tags="Linux 7-zip Архиватор Распаковка" ctime="20200314205512" dir="1574605123ondofl80sr" file="text.html"/>
+      <record id="1574605198l02f4us4pw" name="Русификация LibreOffice" author="" url="" tags="Linux LibreOffice Русификация Пакет" ctime="20200314205512" dir="1574605198w160vqinsf" file="text.html"/>
+      <record id="15746749824rlgmdttjd" name="Обход ограничений Yota при безлимитной раздаче" author="" url="" tags="" ctime="20200314205512" dir="1574674982o6riwls63r" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="15842085123jq8wwltos" name="Игры">
+     <recordtable>
+      <record id="1574606534pp8i5bifu4" name="Paradox Interactive. Папка сохранений и модов" author="" url="" tags="" ctime="20200314205512" dir="1574606534aow0y4c6yi" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1584208512kfgryjyd6e" name="KDE">
+     <recordtable>
+      <record id="1579383416rd7frtpagl" name="Новый пункт меню" author="" url="" tags="" ctime="20200314205512" dir="15793834162i8pt2vrx7" file="text.html">
+       <files>
+        <file id="1579383425hg1q6u8h15" fileName="Примечания" type="file"/>
+        <file id="1579383425o8zvnqps15" fileName="S.sh" type="file"/>
+        <file id="1579383425thylr50ohu" fileName="S1.sh" type="file"/>
+        <file id="15793834257za8pwixdj" fileName="Script.desktop" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+    <node crypt="" id="1584208512wnbdvq9rkg" name="Команды">
+     <recordtable>
+      <record id="157977187911pnt16e21" name="Хеш-сумма" author="" url="" tags="Хеш-сумма SHA256 целостность проверка хэш-сумма hesh" ctime="20200314205512" dir="1579771879064eqrlrro" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1584208512sofycrvy0z" name="Manjaro">
+     <node crypt="" id="15842085126kvmstm6m8" name="Установка">
+      <recordtable>
+       <record id="1582290281kc6hmyr78w" name="Yay" author="" url="" tags="Manjaro установка" ctime="20200314205512" dir="15822902814dxaom35t3" file="text.html"/>
+       <record id="1582291198aux49o3r6y" name="Virtual Box" author="" url="" tags="Virtual Box Manjaro Установка Настройка" ctime="20200314205512" dir="1582291198o0jyh8me0b" file="text.html"/>
+       <record id="1582291553t5ohpricok" name="pacman" author="" url="" tags="Manjaro установка" ctime="20200314205512" dir="1582291553uyz507o49v" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
   </node>
   <node crypt="" id="1582495386lkmebwtzz0" name="Торговля">
    <recordtable>
